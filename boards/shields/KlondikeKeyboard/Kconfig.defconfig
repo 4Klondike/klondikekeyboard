@@ -1,0 +1,5 @@
+if SHIELD_KLONDIKEKEYBOARD
+    config ZMK_KEYBOARD_NAME
+        default "klondikekeyboard"
+
+endif
