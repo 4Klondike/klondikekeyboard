@@ -1,2 +1,3 @@
 config SHIELD_KLONDIKEKEYBOARD
     def_bool $(shields_list_contains,klondikekeyboard)
+    select GPIO
