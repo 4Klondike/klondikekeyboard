@@ -1,0 +1,3 @@
+config SHIELD_KLONDIKEKEYBORD
+    def_bool $(shields_list_contains,klondikekeybord)
+    select GPIO

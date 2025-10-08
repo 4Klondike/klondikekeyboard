@@ -1,6 +1,6 @@
  file_format: "1"
-id: klondikekeyboard
-name: KlondikeKeyboard
+id: klondikekeybord
+name: KlondikeKeybord
 type: shield
 url: https://github.com/4Klondike/klondikekeyboard/
 requires: [pro_micro]

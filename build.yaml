@@ -6,7 +6,7 @@
 # `artifact-name` to assign a name to distinguish build outputs from each other:
 #
  board: [ "nice_nano_v2" ]
- shield: [ "klondikekeyboard" ]
+ shield: [ "klondikekeybord" ]
  include:
    - board: nice_nano_v2
-     shield: klondikekeyboard
+     shield: klondikekeybord
